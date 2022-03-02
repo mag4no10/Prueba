@@ -13,7 +13,7 @@
 #include <iostream>
 #include <cmath>
 
-#include "rational_t.hpp"
+#include "rational_t.hpp" // hola
 
 int main() {
   // Creamos 3 objetos de la clase rational_t
